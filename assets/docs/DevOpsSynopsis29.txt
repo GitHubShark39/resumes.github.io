@@ -1,0 +1,347 @@
+
+Devops Synopsis
+
+Working with a development teams to build development tooling to automate all build manual tasks pertaining 
+to building of applications in mobile, ios, apple, ipad, android tablets, android and wep apps applications.
+
+Collaborating with Developers, QA, IT, Project Managers. Architect build requirements for build process automation while
+Driving the build automation process while troubleshooting build issues while providing direct support for builds on 
+build errors, failures and warnings.
+
+Working within CI/CD/CM tools Working with tools such as:
+
+Version Source Control: VSTS(Visual Studio Team Services)/GIT/ClearCase/SVN/Bitbucket/Github/GitLab/BitBucket
+Git Clients: GitKraken, Tower, Git, TortoiseGit, Visual Studio 2017, SourceTree, 
+Build Automation: Ant, Gradle, Maven, .Net
+Continous Integration: Jenkins, Hudson, Cruise Control
+Staging/Packaging Managers: NPM, Jfrog Artifactory, rvm, GEMS, IBM Installation Manager, 
+Continous Deployment: Jenkins Deployment, 
+Server Side Java Script Frameworks: ExpressJs, NodeJS, AngularJs, ReactJS
+App Servers: WebSphere, WildFly, Tomcat
+Http Servers: Apache, Nginx, IIS 8.0
+Program Languages: Java, C++, xCode
+SDK kits: Android sdk, Xamarin, Visual Studio 2012/2015/2017, JDK, ChefDK, AptanaStudio, Evothings Studio sdk, gCloud sdk
+Scripting: Perl, Python, Php, Ruby, Yaml,Bash,Unix Shell Scripting
+Mobile Build Tools: xCode, 
+Testing Tools: 
+Monitoring Tools: Winlogbeat, ELK Stack, Nagios, Splunk
+Configuration/Provisioning: Ansible, Chef
+Cloud/AWS: aws, gcloud, openstack, azure
+Migrating: gradle scripts to maven scripts
+Repo Migration for: svn to git
+
+Implementing deployments automated with CHEF, and troubleshooting the different environments which consist of  QA, UAT, PreProd, and Production.
+Working with Windows 2012 server and Windows 2016 server, supporting the different SCM repos.
+Configuring VM/AWS instances for QA and UAT environments. Creating and Packaging RPM, MSI - solid experience with package managers
+VMware, KVM virtual environment, working with AWS, cloud, Vagrant, VirtualBox environment experience
+Working with WildFly/JackRabbit MQ in QA, UAT and PROD environments.
+Integrating Docker with ArtFactory, BitBucket for the deployment to verify and deploy the artifacts.
+Maintaing Docker Containers, Scripts, Images, and Files, also deploying to a Docker Repo for the Docker Production.
+Working with databases and Oracle DBs on multiple projects, such as CSC and others.
+
+Also implemented integrated components and build tools that allowed the system and the entire team to operate
+more effiently. Monitor systems to ensure stability, reliabity, and availability of applications services for mobile
+and web environments. 
+Maintain the Front-Stack which consist of SVN/GIT/Ant/Maven/Gradle/Jenkins/NPM/Artifactory.
+Maintain the Rear-Stack which consist of Puppet/Chef/Ansible/Docker/Salt Stack /AEM/VM Ware/AWS cloud environments.
+Lastly maintain the repos for VSTS(Visual Studio Team Services)/GIT/ClearCase/SVN/Artifactory/Ansible/Docker/Salt Stack/Perl/HTML/Php.
+
+Working with Apache for over 10 years, administrating, migrating, and installing. With Tomcat, have worked from 
+versions 6 to versions 9, of setting up the Tomcat to accept the different build artifacts for the application servers. 
+Have work a year with Apache MQ for the messaging service, and just supporting the setup and installation. 
+
+My growth-oriented career experience in DevOps SCM/Agile/CI/CD/CT/CM with a specific focus on cloud, vagrant,
+hyper-v, virtualbox, virtualization, availability, and enforcement of complex trouble resolution, NFS trouble resolution, system capacity planning 
+and management, development and maintenance of administrative tools, OS level troubleshooting, and resolution of 
+user issues. Have excellent communication skills, able to provide excellent customer support, work effectively 
+on a team and is self-motivated.
+
+For my experience with Git, Github, GitLab, and BitBucket, it consist of Administration, Maintenance and 
+Monitoring the different repositories. From setting up the clients for the Developers workspace or 
+sand box, to assisting with branching, tagging, merging, and rebasing strategies. Also setting up or creating 
+repositories for different projects and cloning projects for the environments that I am supporting. 
+Lastly migrating from different repository versions, to move to another server or update the versions.
+
+
+-------------------------------------------------------------------------------------------------------------
+Could you briefly describe your experience with Cloud Environments?
+
+
+-------------------------------------------------------------------------------------------------------------
+Could you briefly describe your experience with MS Azure?
+
+
+
+-------------------------------------------------------------------------------------------------------------
+Could you briefly describe your experience with AWS?
+Prior use and integration of QA AWS services:
+aws EC2
+aws IAM
+aws VPC
+AWS subnets
+AWS regions
+
+CodeCommit [X]
+CodeBuild [X]
+CodeDeploy [ ]
+AWS CodePipeline [ ]
+
+Knowledge of about, but have not use:
+CloudFormation 
+CloudWatch 
+CloudTrail 
+Lambda 
+CloudFoundry
+
+
+-------------------------------------------------------------------------------------------------------------
+Could you briefly describe your experience with OpenStack?
+
+
+-------------------------------------------------------------------------------------------------------------
+Could you briefly describe your experience with C/C++
+
+I have been working with C/C++ since 1998, with supporting C/C++ build automation, deployment of the code.
+Having supporting build environments with Boeing, Northrop Grumman, TRW, and other projects.
+Where I have used tools such as .Net, gnu make, make, and omake, and cmake.
+
+
+Could you briefly describe your experience with Kubernetes
+Questionnaire from Hitachi Data Systems:
+
+Answers:
+ 
+1. Describe for us in two to three paragraphs the project, the application, and the specific work they performed 
+for containerization specifically using Kubernetes.
+ 
+For as working with Kubernetes containerization, I have only worked with administration pieces of Kubernetes,
+Where I install the prerequisites of docker, certificates, update my installer. Next working with Docker engine,
+daemon, machine, where I have to setup the Kubernetes Master Machine. Also configuration on Kubernetes Master,
+where I had to do the following:
+Configure kube-apiserver
+Configure the kube Controller Manager
+Kubernetes Node Configuration
+Kubernetes node will run two services the kubelet and the kube-proxy. 
+Kubernetes (Docker) images are the key building blocks of Containerized Infrastructure.
+
+Lastly, defined Tesing_for_Image_pull,, setup a neo4j-server, setup a Docker image, Defining imagePullPolicy,
+Creating a Containerization Job, and schedule a Containerization Job.
+
+ 
+2. Describe for us in two to three paragraphs the project, the application, and the specific work they performed 
+for networking and specifying the gear and software deployed and used for the development and implementation.
+
+Implementing deployments automated Ansible/CHEF, and troubleshooting the different environments which consist of  QA, UAT, PreProd, and Production.
+Working with Windows 2012 server and Windows 2016 server, supporting the different SCM repos.
+Configuring VM/AWS/EC2/RDS/VPC/IAM instances for QA and UAT environments. Creating and Packaging RPM, MSI - solid experience with package managers
+VMware, KVM virtual environment, working with AWS, cloud, Vagrant, VirtualBox environment experience
+Working with WildFly/JackRabbit MQ in QA, UAT and PROD environments.
+Integrating Docker with ArtFactory, BitBucket for the deployment to verify and deploy the artifacts.
+Maintaing Docker Containers, Scripts, Images, and Files, also deploying to a Docker Repo for the Docker Production.
+Working with databases and Oracle DBs on multiple projects, such as CSC and others.
+
+Could you briefly describe your experience with ansible tower implementation
+https://www.jeffgeerling.com/blog/automating-your-automation-ansible-tower
+
+Implementing Automating ansible tower, where setting up, installing, and using the ansible tower. Also 
+Setting up scheduled Job runs for Continous Integration and Continous Deployment.
+Integrating user accounts and Teams with LDAP users and groups for automatic team-based project.
+Setting different levels of permissions for Users and Teams so certain users can edit certain jobs, others can only 
+run certain jobs, and yet others can only view the results of job runs within an project.
+Listing playbooks, logs, and versions, pushing new playbooks and playbook installations.
+
+
+-------------------------------------------------------------------------------------------------------------
+Could you briefly describe your experience with Chef? *
+
+My experience working with Chef, involves Setting up the Chef Server, installing the Chef client, setting
+up Chef nodes, installing the ChefDK for developing cookbooks and recipes. Also using Chef Supermarket
+to massage existing chef cookbooks for my environments, and Chef Nodes. As we know this requires 
+knowledge of ruby which is the backbone of chef. This includes on Windows and Linux platforms.
+
+
+
+-------------------------------------------------------------------------------------------------------------
+Could you briefly describe your experience with Continuous Integration? *
+
+
+
+Jenkins and Docker
+Jenkins and Docker
+-------------------------------------------------------------------------------------------------------------
+
+Next Generation Continuous Delivery
+There is a transformation happening in IT and it is made up of three waves of innovation: 
+infrastructure, application architectures and process/methodologies. 
+Lightweight Docker containers, microservices-based application architectures and continuous delivery are simultaneously feeding on each other and 
+giving IT the ability to provide more value faster to the business, consumer and user.
+
+To enable you to optimize speed to market with these new technology innovations, the Jenkins® community in collaboration with CloudBees, 
+the hub of enterprise Jenkins and DevOps, has released six Docker-related plugins to enable continuous delivery of containerized applications with Jenkins.
+
+The specific plugins announced by the Jenkins project include the following:
+
+-------------------------------------------------------------------------------------------------------------
+Could you briefly describe your experience with Docker? *
+
+Maintaing Docker Containers, Scripts, Images, and Files, also deploying to a Docker Repo for the Docker Production.
+Working with databases and Oracle DBs on multiple projects, such as CSC and others.
+
+Own my last project, we had Docker integrated with Jenkins, where the Docker plugin,
+and the Artifactory packaging manager plugin was the containerization for deploying
+to an AWS Ansible playbook environment, where the support for Jenkins Pipeline to build and continuous delivery 
+pipelines for containerized applications using Jenkins and Docker. 
+
+Also providing building projects from a Dockerfile and push to a production gold image to Docker Hub repo. 
+Which contain and trigger jobs being tagged within the container and being pushed to Docker Hub repo. 
+
+Implementing tracebility by pushing a particular container which is running in production and 
+and can be trace on the Jenkins console output section. 
+Using Docker slaves as standardized build containerization shared between Jenkins masters/slaves to 
+improve isolation and elasticity. Lastly specifying custom builds for Dev and QA Docker containers.
+
+Docker Services working with:
+Docker Workflow 
+Build and Publish 
+Docker Hub Notification 
+Docker Traceability 
+Docker Slaves 
+Docker Custom Build Environment 
+
+-------------------------------------------------------------------------------------------------------------
+Docker Workflow – provides first-class support for Jenkins Pipeline to build real-world continuous delivery 
+pipelines for containerized applications using Jenkins and Docker
+
+Build and Publish – builds projects from a Dockerfile and pushes a tested and proven gold image to Docker Hub
+
+Docker Hub Notification – triggers downstream jobs when a tagged container is pushed to Docker Hub
+
+Docker Traceability – identifies which build pushed a particular container that is running in production and displays that on the Jenkins builds page
+
+Docker Slaves – uses Docker containers as standardized build environments shared between Jenkins masters to improve isolation and elasticity
+
+Docker Custom Build Environment – specifies customized build environments as Docker containers
+
+-------------------------------------------------------------------------------------------------------------
+Could you briefly describe your experience with  *Puppet ?
+
+
+-------------------------------------------------------------------------------------------------------------
+Could you briefly describe your experience with  *ELK Stack ?
+Elastic Search, Logstach, Apache Kafka, containerization
+Assistance upgrading Elastic stack and performance tuning  Provide resource(s) to successfully implement of 
+our Elastic ecosystem (Elastic Search, Logstash, Kibana and Kafka (Apache). Upon upgrade, performance tune that 
+ecosystem for optimal performance. Give guidance and support on any monitor and alerting opportunities.
+
+-------------------------------------------------------------------------------------------------------------
+Could you briefly describe your experience with Jenkins (Continous Integration)?
+
+
+
+-------------------------------------------------------------------------------------------------------------
+Could you briefly describe your experience with  *Agile ?
+
+
+-------------------------------------------------------------------------------------------------------------
+Could you briefly describe your experience with  *Team Foundation Server(TFS) ?
+Job Responsibility:
+
+TFS Build / Release Management - DevOps 
+We are looking for DevOps resource with following experience
+
+TFS Administration
+TFS Installation / configuration
+TFS Build / release management
+TFS agent configuration
+TFS workflow administration
+TFS / third party tools integration for DevOps
+
+-------------------------------------------------------------------------------------------------------------
+
+Experience with other devops tools like git, sonarqube, artifactory, nexus, nunit, junit, mstest etc..
+·         Installation, Configuration and administration of TFS server and Visual Studio client tools
+
+·         Installation of TFS environments
+
+·         Experience of installation of TFS in multiple data centers and achieve TFS Federation
+
+·         Migration of Source Code from Other systems to TFS
+
+·         Perform User Management & day – day administration activities
+
+·         Support development team on resolving branching / merging issues
+
+·         Excellent in setting up  TFS back up / disaster recovery mechanism
+
+·         Rich skills in monitoring TFS server/ environments
+
+·         Development of Scripts and WebHooks for administration activities as needed
+
+·         Assist TFS user base on various issues pertaining to client tools, user access, AD authentication etc.,
+
+·         Flexible to work in shifts as needed
+
+-------------------------------------------------------------------------------------------------------------
+Could you briefly describe your experience with  *GIT?
+Job Responsibility:
+·         Installation, Configuration and administration of GIT server and client tools
+
+·         Installation of GIT environments in HA mode
+
+·         Experience of installation of GIT in multiple data centers and achieve GIT Federation
+
+·         Migration of Source Code from Other systems to GIT
+
+·         Perform User Management & day – day administration activities
+
+·         Support development team on resolving branching / merging issues
+
+·         Excellent in setting up GIT back up / disaster recovery mechanism
+
+·         Rich skills in monitoring GIT server/ environments
+
+·         Development of Scripts and WebHooks for administration activities as needed
+
+·         Assist GIT user base on various issues pertaining to client tools, user access, AD authentication etc.,
+
+·         Flexible to work in shifts as needed
+
+
+-------------------------------------------------------------------------------------------------------------
+
+Could you briefly describe your experience with  *ELK Stack?
+
+-------------------------------------------------------------------------------------------------------------
+
+
+Could you briefly describe your experience with Java Programming?
+
+Well it consist of over 9 years of java troubleshooting, java building projects, java debugging and supporting
+java. For as the Maven, Ant, and Gradle builds which develop java projects. The java build automation i have developed 
+consisting of the ant build.xml file, the maven pom.xml file, and the gradle build gradle file. Are all java debugging 
+and troubleshooting for the CI/CD/CM, which supports the java deployments. The artifacts I have built consist 
+of ear, war, jar, and rar files.
+
+-------------------------------------------------------------------------------------------------------------
+Could you briefly describe your experience with Azure with PowerShell?
+
+Well I have 6 months experience working with Azure and five years of experience working with powershell.
+
+
+-------------------------------------------------------------------------------------------------------------
+Could you briefly describe your experience with Jenkinsfile/Jenkins pipeline?
+
+
+-------------------------------------------------------------------------------------------------------------
+Could you briefly describe your experience with Jenkins pom or Maven pom?
+
+
+
+
+
+-------------------------------------------------------------------------------------------------------------
+
+
+
+
+ 
